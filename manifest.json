@@ -1,0 +1,278 @@
+{
+  "generatedAt": "2026-07-24T06:28:14.617Z",
+  "leagues": [
+    {
+      "leagueId": 39,
+      "season": 2025,
+      "label": "Premier League 2025",
+      "playerCount": 538,
+      "file": "leagues/39-2025.json"
+    },
+    {
+      "leagueId": 140,
+      "season": 2025,
+      "label": "La Liga 2025",
+      "playerCount": 601,
+      "file": "leagues/140-2025.json"
+    },
+    {
+      "leagueId": 135,
+      "season": 2025,
+      "label": "Serie A 2025",
+      "playerCount": 586,
+      "file": "leagues/135-2025.json"
+    },
+    {
+      "leagueId": 78,
+      "season": 2025,
+      "label": "Bundesliga 2025",
+      "playerCount": 518,
+      "file": "leagues/78-2025.json"
+    },
+    {
+      "leagueId": 61,
+      "season": 2025,
+      "label": "Ligue 1 2025",
+      "playerCount": 605,
+      "file": "leagues/61-2025.json"
+    },
+    {
+      "leagueId": 203,
+      "season": 2025,
+      "label": "Süper Lig 2025",
+      "playerCount": 577,
+      "file": "leagues/203-2025.json"
+    },
+    {
+      "leagueId": 88,
+      "season": 2025,
+      "label": "Eredivisie 2025",
+      "playerCount": 610,
+      "file": "leagues/88-2025.json"
+    },
+    {
+      "leagueId": 94,
+      "season": 2025,
+      "label": "Primeira Liga 2025",
+      "playerCount": 596,
+      "file": "leagues/94-2025.json"
+    },
+    {
+      "leagueId": 40,
+      "season": 2025,
+      "label": "Championship 2025",
+      "playerCount": 756,
+      "file": "leagues/40-2025.json"
+    },
+    {
+      "leagueId": 71,
+      "season": 2026,
+      "label": "Brasileirão 2026",
+      "playerCount": 620,
+      "file": "leagues/71-2026.json"
+    },
+    {
+      "leagueId": 1,
+      "season": 2026,
+      "label": "World Cup 2026",
+      "playerCount": 1039,
+      "file": "leagues/1-2026.json"
+    },
+    {
+      "leagueId": 144,
+      "season": 2025,
+      "label": "Belgian Pro League 2025",
+      "playerCount": 568,
+      "file": "leagues/144-2025.json"
+    },
+    {
+      "leagueId": 179,
+      "season": 2025,
+      "label": "Scottish Premiership 2025",
+      "playerCount": 390,
+      "file": "leagues/179-2025.json"
+    },
+    {
+      "leagueId": 204,
+      "season": 2025,
+      "label": "TFF 1. Lig 2025",
+      "playerCount": 686,
+      "file": "leagues/204-2025.json"
+    },
+    {
+      "leagueId": 141,
+      "season": 2025,
+      "label": "La Liga 2 2025",
+      "playerCount": 697,
+      "file": "leagues/141-2025.json"
+    },
+    {
+      "leagueId": 136,
+      "season": 2025,
+      "label": "Serie B 2025",
+      "playerCount": 591,
+      "file": "leagues/136-2025.json"
+    },
+    {
+      "leagueId": 79,
+      "season": 2025,
+      "label": "2. Bundesliga 2025",
+      "playerCount": 558,
+      "file": "leagues/79-2025.json"
+    },
+    {
+      "leagueId": 128,
+      "season": 2026,
+      "label": "Liga Profesional Argentina 2026",
+      "playerCount": 825,
+      "file": "leagues/128-2026.json"
+    },
+    {
+      "leagueId": 262,
+      "season": 2026,
+      "label": "Liga MX 2026",
+      "playerCount": 290,
+      "file": "leagues/262-2026.json"
+    },
+    {
+      "leagueId": 253,
+      "season": 2026,
+      "label": "MLS 2026",
+      "playerCount": 724,
+      "file": "leagues/253-2026.json"
+    },
+    {
+      "leagueId": 307,
+      "season": 2025,
+      "label": "Saudi Pro League 2025",
+      "playerCount": 531,
+      "file": "leagues/307-2025.json"
+    },
+    {
+      "leagueId": 2,
+      "season": 2026,
+      "label": "UEFA Champions League 2026",
+      "playerCount": 297,
+      "file": "leagues/2-2026.json"
+    },
+    {
+      "leagueId": 3,
+      "season": 2025,
+      "label": "UEFA Europa League 2025",
+      "playerCount": 926,
+      "file": "leagues/3-2025.json"
+    },
+    {
+      "leagueId": 848,
+      "season": 2026,
+      "label": "UEFA Conference League 2026",
+      "playerCount": 62,
+      "file": "leagues/848-2026.json"
+    },
+    {
+      "leagueId": 119,
+      "season": 2025,
+      "label": "Danish Superliga 2025",
+      "playerCount": 366,
+      "file": "leagues/119-2025.json"
+    },
+    {
+      "leagueId": 207,
+      "season": 2025,
+      "label": "Swiss Super League 2025",
+      "playerCount": 392,
+      "file": "leagues/207-2025.json"
+    },
+    {
+      "leagueId": 218,
+      "season": 2025,
+      "label": "Austrian Bundesliga 2025",
+      "playerCount": 343,
+      "file": "leagues/218-2025.json"
+    },
+    {
+      "leagueId": 197,
+      "season": 2025,
+      "label": "Greek Super League 2025",
+      "playerCount": 456,
+      "file": "leagues/197-2025.json"
+    },
+    {
+      "leagueId": 106,
+      "season": 2025,
+      "label": "Ekstraklasa 2025",
+      "playerCount": 542,
+      "file": "leagues/106-2025.json"
+    },
+    {
+      "leagueId": 103,
+      "season": 2026,
+      "label": "Eliteserien 2026",
+      "playerCount": 387,
+      "file": "leagues/103-2026.json"
+    },
+    {
+      "leagueId": 113,
+      "season": 2026,
+      "label": "Allsvenskan 2026",
+      "playerCount": 390,
+      "file": "leagues/113-2026.json"
+    },
+    {
+      "leagueId": 62,
+      "season": 2025,
+      "label": "Ligue 2 2025",
+      "playerCount": 560,
+      "file": "leagues/62-2025.json"
+    },
+    {
+      "leagueId": 239,
+      "season": 2026,
+      "label": "Primera A 2026",
+      "playerCount": 577,
+      "file": "leagues/239-2026.json"
+    },
+    {
+      "leagueId": 98,
+      "season": 2026,
+      "label": "J1 League 2026",
+      "playerCount": 568,
+      "file": "leagues/98-2026.json"
+    },
+    {
+      "leagueId": 292,
+      "season": 2026,
+      "label": "K League 1 2026",
+      "playerCount": 316,
+      "file": "leagues/292-2026.json"
+    },
+    {
+      "leagueId": 233,
+      "season": 2025,
+      "label": "Egyptian Premier League 2025",
+      "playerCount": 717,
+      "file": "leagues/233-2025.json"
+    },
+    {
+      "leagueId": 13,
+      "season": 2026,
+      "label": "Copa Libertadores 2026",
+      "playerCount": 1034,
+      "file": "leagues/13-2026.json"
+    },
+    {
+      "leagueId": 11,
+      "season": 2026,
+      "label": "Copa Sudamericana 2026",
+      "playerCount": 1147,
+      "file": "leagues/11-2026.json"
+    },
+    {
+      "leagueId": 5,
+      "season": 2024,
+      "label": "UEFA Nations League 2024",
+      "playerCount": 1552,
+      "file": "leagues/5-2024.json"
+    }
+  ]
+}
